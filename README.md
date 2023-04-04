@@ -1,9 +1,9 @@
 # BigData-EthereumAnalysis
-# A coursework on Ethereum Analysis, as a part of curriculum at Queen Mary University of London.
+A coursework on Ethereum Analysis, as a part of curriculum at Queen Mary University of London.
 
 
 
-# Analysis of Ethereum Transactions and Smart Contracts using Apache Spark
+Analysis of Ethereum Transactions and Smart Contracts using Apache Spark
 
 ## Dataset overview
 Ethereum is a blockchain based distributed computing platform where users may exchange currency (Ether), provide or purchase services (smart contracts), mint their own coinage (tokens), as well as other applications. The Ethereum network is fully decentralised, managed by public-key cryptography, peer-to-peer networking, and proof-of-work to process/verify transactions.
